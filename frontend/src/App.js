@@ -97,7 +97,7 @@ function App() {
         formDataToSend.append('image', formData.image);
       }
 
-      const response = await axios.post(`${API_URL}/products`, formDataToSend, {
+      await axios.post(`${API_URL}/products`, formDataToSend, {
         headers: {
           'Content-Type': 'multipart/form-data'
         }
