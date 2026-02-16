@@ -1079,7 +1079,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📖 **Documentation**: Read this README thoroughly
 - 🐛 **Bug Reports**: [Open an issue](https://github.com/imrezaulkrm/devops-curd-project/issues)
 - 💡 **Feature Requests**: [Open an issue](https://github.com/imrezaulkrm/devops-curd-project/issues)
-- 📧 **Email**: your-email@example.com
+- 📧 **Email**: rezaul1203karim@gmail.com
 
 ### Resources
 
@@ -1143,13 +1143,17 @@ cd devops-curd-project
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+### Homepage PC View
+![Homepage](./screenshots/pc-home-page.png)
 
-1. **Homepage with Product Grid**
-2. **Create Product Form**
-3. **Product Details**
-4. **Delete Confirmation**
-5. **Mobile Responsive View**
+### Product list PC View
+![Product list View](./screenshots/pc-product.png)
+
+### Homepage Phone View
+![Homepage](./screenshots/phone-home-page.png)
+
+### Product list Phone View
+![Product list View](./screenshots/phone-product.png)
 
 ---
 
@@ -1157,7 +1161,7 @@ cd devops-curd-project
 
 **Built with ❤️ using Node.js, React, PostgreSQL, Redis, and AWS S3**
 
-Made by [Your Name](https://github.com/imrezaulkrm)
+Made by [Rezaul Karim](https://github.com/imrezaulkrm)
 
 [⬆ Back to Top](#️-full-stack-crud-application)
 
