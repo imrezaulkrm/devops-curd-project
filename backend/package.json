@@ -1,0 +1,25 @@
+{
+  "name": "crud-backend",
+  "version": "1.0.0",
+  "description": "Full-stack CRUD backend with Express, PostgreSQL, Redis, and AWS S3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["express", "postgresql", "redis", "s3", "crud"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.515.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.11.3",
+    "redis": "^4.6.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
